@@ -10,6 +10,8 @@
 
 -   Flask
     -   [SSTI](./Flask/SSTI/README.md) | Server Side Template Injection / [신경방 (@positiveWand)](https://github.com/positiveWand)
+-   Log4j
+    -   [CVE-2021-44228](./Log4j/CVE-2021-44228/README.md) | Log4j JNDI Lookup / [강성원 (@rivercastleone)](https://github.com/rivercastleone)
 -   MySQL
     -   [CVE-2012-2122](./MySQL/CVE-2012-2122/README.md) | MySQL Authentication Bypass / [배소정 (@baethwjd2)](https://github.com/baethwjd2)
 -   Nginx
