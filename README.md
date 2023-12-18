@@ -14,3 +14,5 @@
     -   [CVE-2012-2122](./MySQL/CVE-2012-2122/README.md) | MySQL Authentication Bypass / [배소정 (@baethwjd2)](https://github.com/baethwjd2)
 -   Nginx
     -   [CVE-2017-7529](./Nginx/CVE-2017-7529/README.md) | Nginx Integer Overflow Vulnerability / [박건호 (@c0dep1ayer)](https://github.com/c0dep1ayer)
+-   NodeJS
+    -   [CVE-2017-16082](./NodeJS/CVE-2017-16082/README.md) | node-postgres 임의 코드 실행 취약점 / [서현규 (@wh1te4ever)](https://github.com/wh1te4ever)
