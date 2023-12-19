@@ -16,3 +16,5 @@
     -   [CVE-2012-2122](./MySQL/CVE-2012-2122/README.md) | MySQL Authentication Bypass / [배소정 (@baethwjd2)](https://github.com/baethwjd2)
 -   Nginx
     -   [CVE-2017-7529](./Nginx/CVE-2017-7529/README.md) | Nginx Integer Overflow Vulnerability / [박건호 (@c0dep1ayer)](https://github.com/c0dep1ayer)
+-   TikiWiki
+    -   [CVE-2020-15906](./TikiWiki/CVE-2020-15906/README.md) | TikiWiki 21.1 Authentication Bypass / [전해준 (@haijun9)](https://github.com/haijun9)
